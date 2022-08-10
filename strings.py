@@ -1,0 +1,11 @@
+a=' Data ; Science '
+print(a)
+print(a[0:7])
+print(a[-7:-4])
+print(len(a))
+print(a)
+print(a.strip())
+print(a.upper())
+print(a.lower())
+print(a.replace('Data','Python'))
+print(a.split())
